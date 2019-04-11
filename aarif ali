@@ -1,0 +1,16 @@
+E:\Dev. Requirement\RD Android\tlb_assistant\tlb_assistant>flutter build apk --release
+Initializing gradle...                                              2.1s
+Resolving dependencies...                                           7.1s
+registerResGeneratingTask is deprecated, use registerGeneratedResFolders(FileCollection)
+registerResGeneratingTask is deprecated, use registerGeneratedResFolders(FileCollection)
+registerResGeneratingTask is deprecated, use registerGeneratedResFolders(FileCollection)
+registerResGeneratingTask is deprecated, use registerGeneratedResFolders(FileCollection)
+registerResGeneratingTask is deprecated, use registerGeneratedResFolders(FileCollection)
+Note: D:\Flutter\flutter\.pub-cache\hosted\pub.dartlang.org\firebase_admob-0.8.0+3\android\src\main\java\io\flutter\plugins\firebaseadmob\AdRequestBuilderFactory.java uses or overrid
+es a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+Note: D:\Flutter\flutter\.pub-cache\hosted\pub.dartlang.org\firebase_messaging-4.0.0+2\android\src\main\java\io\flutter\plugins\firebasemessaging\FlutterFirebaseInstanceIDService.jav
+a uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+Note: D:\Flutter\flutter\.pub-cache\hosted\pub.dartlang.org\fluttertoast-3.0.3\android\src\main\java\io\github\ponnamkarthik\toast\fluttertoast\FluttertoastPlugin.java uses or overri
+des a deprecated API.
